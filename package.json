@@ -1,0 +1,19 @@
+{
+  "name": "remove-flowRight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "bash test.bash",
+    "run": "node_modules/.bin/babel --plugins=. < input.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-core": "^6.22.1",
+    "babel-traverse": "^6.22.1",
+    "babel-types": "^6.22.0",
+    "lodash": "^4.17.4"
+  }
+}
