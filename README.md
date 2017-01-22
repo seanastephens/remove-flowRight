@@ -10,7 +10,7 @@ Output:
 x => f(g(x))
 ```
 
-# To run:
+# To run
 
 ```bash
 npm install
